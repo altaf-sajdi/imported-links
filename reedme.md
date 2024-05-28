@@ -1,3 +1,9 @@
+# code 
+let message = "Hello World";// Infering Types, 
+                            //take your cursor on the variable name
+console.log(message);
+        
+        
 # We have used string type to store and print the message.
 
 Note that the most basic types in TypeScript correspond to the seven basic kinds of primitives in JavaScript:
@@ -65,4 +71,11 @@ Also Read: https://code.visualstudio.com/Docs/languages/typescript
 
 [Watch Learn TypeScript – Full Video Tutorial by freeCodeCamp.org
 ](https://www.youtube.com/watch?v=30LWjhZzg50)
+
+# code 
+
+let message = "Hello World";// Infering Types, 
+                            //take your cursor on the variable name
+console.log(message);
+        
 
