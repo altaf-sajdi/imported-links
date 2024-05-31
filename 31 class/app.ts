@@ -18,9 +18,16 @@
 
 //console.log(lname==numbm, er)
 
-let fname=                              // ternary opretor
+//let fname=                              // ternary opretor
 
-Math.random()>0.3? "altaf"
-18
-console.log(fname)
-if (typeof fnam)
+//Math.random()>0.3? "altaf"
+//18
+//console.log(fname)
+//if (typeof 
+
+
+
+
+
+
+
