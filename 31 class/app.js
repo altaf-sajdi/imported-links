@@ -9,4 +9,5 @@
 //fname.charAt
 let fnum = 33;
 fnum.toString;
-typeof ;
+typeof fnum;
+console.log(typeof fnum);

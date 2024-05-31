@@ -9,6 +9,7 @@
  //fname.charAt
 
  let fnum:number=33;
- fnum.toString;
+ fnum.toString
 typeof fnum
 
+console.log(typeof fnum)
